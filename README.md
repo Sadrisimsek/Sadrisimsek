@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Sadrisimsek
-- 👀 I’m interested in computer and software
-- 🌱 I’m currently learning Python and Java
-- 💞️ I’m looking to collaborate on ...
+
 - 📫 How to reach me sadrisimsek@gmail.com
 
 <!---
