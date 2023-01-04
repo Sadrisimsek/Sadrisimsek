@@ -1,5 +1,6 @@
 # 💫 About Me / Hakkımda :
 - 👋 Hi, I’m @Sadreddinsimsek<br><br>- 📫 How to reach me sadrisimsek@gmail.com<br>
+- 💻 I'm a full-stack developer 
 
 
 ## 🌐 Social:
